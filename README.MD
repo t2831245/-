@@ -21,7 +21,7 @@
 ![](https://github.com/t2831245/-/blob/master/picture/3.png?raw=true)  
 
 ##資料庫還原
-開啟組態管理員
+開啟組態管理員  
 ![](https://github.com/t2831245/-/blob/master/picture/4.png?raw=true)  
 將**[SQL Server Browser]**調成手動後啟動
 ![](https://github.com/t2831245/-/blob/master/picture/5.png?raw=true)  
